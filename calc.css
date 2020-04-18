@@ -1,0 +1,48 @@
+.panel {
+	display: table;
+}
+
+.press {
+	background-color: #A9A9A9;
+	border: none;
+	color: white;
+	font-size: 25px;
+}
+.press {
+    position: relative;
+    background-color: #0CAF50;
+    border: none;
+    font-size: 30px;
+    color: #FFFFFF;
+    padding: 10px;
+    width: 65px;
+    text-align: center;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.press_input {
+	position: relative;
+    background-color: #0F6B50;
+    border: none;
+    font-size: 30px;
+    color: #FFFFFF;
+    padding: 10px;
+    width: 65px;
+    text-align: center;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.number {
+	padding: 5px;
+	background-color: #333333;
+	border: none;
+	color: white;
+	width: 250px;
+	text-align: right;
+	font-size: 25px;
+}
+.main {
+	display: table;
+	background-color: #000000
+	
+}
